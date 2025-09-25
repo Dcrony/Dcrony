@@ -3,7 +3,7 @@ Web & Mobile App Developer | Full-Stack Engineer
 
 Welcome to my professional portfolio! This repository showcases my expertise in building modern, responsive, and high-performance applications across web and mobile platforms.  
 
-👉 Live Portfolio: [Coming Soon]  
+👉 Live Portfolio: https://dcronyportfolio.vercel.app  
 
 ---
 
