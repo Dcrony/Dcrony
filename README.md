@@ -49,20 +49,7 @@ Welcome to my professional portfolio! This repository showcases my expertise in 
 **Core Skills:**  
 - JavaScript • TypeScript • HTML5 • CSS3 • Python  
 - Full-Stack Development (Frontend + Backend + Database)  
-- Scalable Web & Mobile Applications  
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dcrony&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dcrony&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Dcrony&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
+- Scalable Web & Mobile Applications
 
 ---
 
@@ -75,6 +62,18 @@ Welcome to my professional portfolio! This repository showcases my expertise in 
 
 
 ---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dcrony&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dcrony&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Dcrony&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
 
 ## 🤝 Contributing  
 
