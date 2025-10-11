@@ -1,43 +1,27 @@
-# Dcrony Portfolio 🚀  
-Web & Mobile App Developer | Full-Stack Engineer  
+# I'm Ibrahim Abdulmajeed  
+Web Developer | Full-Stack Engineer  
 
-Welcome to my professional portfolio! This repository showcases my expertise in building modern, responsive, and high-performance applications across web and mobile platforms.  
-
-👉 Live Portfolio: https://dcronyportfolio.vercel.app  
-
----
+Welcome to my professional portfolio! This repository showcases my expertise in building modern, responsive, and high-performance applications across web and mobile platforms. 
 
 ## ✨ Key Highlights  
 - **Responsive Design**: Seamless experience across devices  
 - **Scalable Architecture**: MERN stack & RESTful APIs  
 - **Performance Optimized**: Clean code & fast load times  
-- **Engaging UI**: Tailwind CSS + Framer Motion animations  
-- **E-Commerce Expertise**: Admin panels, product management & payment integration  
-- **Event Software**: Ticketing, livestreaming, and real-time chat  
-
+- **Engaging UI**: Tailwind CSS + Framer Motion animations 
 ---
 
 ## 🛠 Tech Stack  
-
 **Frontend:**  
 - React • Next.js • Redux • Context API  
-- Tailwind CSS • Bootstrap • CSS Modules  
-
+- Tailwind CSS • Bootstrap • CSS Modules 
 **Backend:**  
-- Node.js • Express.js • REST APIs  
-
+- Node.js • Express.js • REST APIs
 **Database:**  
-- MySQL • MongoDB  
-
-**Mobile:**  
-- React Native • Expo  
-
+- MySQL • MongoDB
 **Tools & Workflow:**  
-- Git • GitHub • Vite • Webpack • Postman • Docker  
-
+- Git • GitHub • Vite • Webpack • Postman 
 **Testing:**  
 - Jest • React Testing Library  
-
 ---
 
 ## 💻 My Profile  
