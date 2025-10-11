@@ -3,6 +3,11 @@ Web Developer | Full-Stack Engineer
 
 Welcome to my professional portfolio! This repository showcases my expertise in building modern, responsive, and high-performance applications across web and mobile platforms. 
 
+<hr/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Dcrony&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
 ## ✨ Key Highlights  
 - **Responsive Design**: Seamless experience across devices  
 - **Scalable Architecture**: MERN stack & RESTful APIs  
@@ -54,9 +59,7 @@ Welcome to my professional portfolio! This repository showcases my expertise in 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dcrony&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Dcrony&theme=tokyonight" alt="GitHub Streak" />
-</p>
+
 
 
 ## 🤝 Contributing  
