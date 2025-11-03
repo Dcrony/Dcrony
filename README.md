@@ -45,7 +45,7 @@ Welcome to my professional portfolio! This repository showcases my expertise in 
 ## 🌐 Connect With Me  
 
 📧 Email: ibrahimabdulmajeed14@gmail.com  
-💼 Portfolio: https://dcronyportfolio.vercel.app  
+💼 Portfolio: https://dcrony.vercel.app  
 🐦 X (Twitter): https://x.com/CodeWithDcrony
 🔗 LinkedIn: www.linkedin.com/in/ibrahim-abdulmajeed-803b12336
 
