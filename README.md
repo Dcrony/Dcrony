@@ -1,5 +1,5 @@
 # I'm Ibrahim Abdulmajeed  
-Software Developer| Web Developer | Full-Stack Engineer  
+Software Developer | Web Developer | Full-Stack Engineer  
 
 Welcome to my professional portfolio! This repository showcases my expertise in building modern, responsive, and high-performance applications across web and mobile platforms. 
 
