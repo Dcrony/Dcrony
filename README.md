@@ -1,80 +1,134 @@
-# Hi, I'm Ibrahim Abdulmajeed 👋  
-**Software Developer | Full-Stack Engineer | Web & Mobile App Specialist**  
+# Hi there, I'm Ibrahim Abdulmajeed 👋
 
-Welcome to my professional portfolio! This repository highlights my work in building **modern, responsive, and high-performance applications** across web and mobile platforms.
+### Full-Stack Developer • MERN Stack Engineer • Web & Mobile App Builder
+
+I build scalable, high-performance digital products with modern technologies focused on user experience, performance, and real-world impact. Passionate about creating products that combine clean architecture with beautiful interfaces.
 
 ---
 
 <p align="center">
-  <img src="https://streak-stats.herokuapp.com?user=Dcrony&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.herokuapp.com?user=Dcrony&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-## ✨ Key Highlights
-- **Responsive Design:** Seamless experience across all devices  
-- **Scalable Architecture:** MERN stack & RESTful APIs  
-- **Performance Optimized:** Clean, efficient code with fast load times  
-- **Engaging UI:** Tailwind CSS + Framer Motion animations  
+## 🚀 About Me
+
+* 💻 Full-Stack Developer specializing in the **MERN Stack**
+* 📱 Building modern **web & mobile applications**
+* ⚡ Focused on scalable backend systems, responsive UI, and smooth UX
+* 🎯 Currently building innovative products including event-tech platforms and AI-powered solutions
+* 🌍 Based in Nigeria
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-**Frontend:**  
-React • Next.js • Redux • Context API • Tailwind CSS • Bootstrap • CSS Modules  
+### Frontend
 
-**Backend:**  
-Node.js • Express.js • RESTful APIs  
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,html,css,js,ts,vite" />
+</p>
 
-**Database:**  
-MongoDB • MySQL  
+### Backend
 
-**Tools & Workflow:**  
-Git • GitHub • Vite • Webpack • Postman  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+</p>
 
-**Testing:**  
-Jest • React Testing Library  
+### Tools & Workflow
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,webpack,figma,vscode" />
+</p>
+
+### Testing
+
+<p>
+  <img src="https://skillicons.dev/icons?i=jest" />
+</p>
 
 ---
 
-## 💻 About Me
+## ✨ What I Build
 
-**👨‍💻 Name:** Ibrahim Abdulmajeed (Dcrony)  
-**🌍 Location:** Nigeria  
-**💼 Role:** Web & Mobile App Developer | MERN Stack Specialist  
+* 🔹 Full-stack web applications
+* 🔹 Event management & ticketing platforms
+* 🔹 Real-time systems & live streaming features
+* 🔹 Responsive landing pages & business websites
+* 🔹 Admin dashboards & analytics systems
+* 🔹 RESTful APIs & backend infrastructures
 
-**Core Skills:**  
-- JavaScript • TypeScript • HTML5 • CSS3 • Python  
-- Full-Stack Development (Frontend + Backend + Database)  
-- Building scalable web & mobile applications  
+---
+
+## 📌 Featured Projects
+
+### 🎟 TickiSpot
+
+An advanced event-tech platform built with the MERN stack featuring:
+
+* Event creation & management
+* Ticket purchasing system
+* QR code check-in
+* Live streaming integration
+* Organizer analytics dashboard
+* AI-powered audience growth tools
+
+### 🤖 TickiAI
+
+AI-powered tools focused on audience engagement, automation, and growth optimization for event organizers.
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dcrony&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dcrony&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-📧 **Email:** ibrahimabdulmajeed14@gmail.com  
-💼 **Portfolio:** [https://dcrony.vercel.app](https://dcrony.vercel.app)  
-🐦 **X (Twitter):** [https://x.com/CodeWithDcrony](https://x.com/CodeWithDcrony)  
-🔗 **LinkedIn:** [www.linkedin.com/in/ibrahim-abdulmajeed-803b12336](https://www.linkedin.com/in/ibrahim-abdulmajeed-803b12336)  
+<p>
+  <a href="mailto:ibrahimabdulmajeed14@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
----
+  <a href="https://dcrony.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 
-## 📊 GitHub Stats
+  <a href="https://x.com/CodeWithDcrony" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
 
-<p align="center">
-  <img src="https://github-readme-stats.pxxl.app/api?username=Dcrony&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dcrony&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
+  <a href="https://www.linkedin.com/in/ibrahim-abdulmajeed-803b12336" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 🤝 Contributing
+## 📈 Current Focus
 
-Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.  
+* 🚀 Scaling event-tech products
+* 🧠 AI integrations for digital platforms
+* 📱 Expanding into cross-platform mobile development
+* ⚙️ Building production-ready SaaS applications
 
 ---
 
-📄 **License:** All Rights Reserved © Dcrony 2025  
+## 🤝 Open To
 
-Crafted with ❤️ by **Dcrony**
+* Freelance Projects
+* Collaborations
+* Startup Opportunities
+* Remote Full-Stack Roles
+
+---
+
+<p align="center">
+  <b>Crafted with passion by Dcrony ⚡</b>
+</p>
